@@ -152,6 +152,3 @@ A 5
 C 2 2 10 2 2 4 2
 X
 ```
-
-Feel free to ask if you have any questions!
-```
